@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f36f70-0d23-4068-91ec-e09971fa463e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UCL Master Dissertation.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="83f36f70-0d23-4068-91ec-e09971fa463e" name="Changes" comment="upload requirements.txt; jupyter notebook and .py file creation for setup">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,11 +78,31 @@
       <option name="presentableId" value="Default" />
       <updated>1695822851850</updated>
       <workItem from="1695822853883" duration="306000" />
-      <workItem from="1695823234343" duration="53000" />
+      <workItem from="1695823234343" duration="3544000" />
     </task>
+    <task id="LOCAL-00001" summary="upload requirements.txt; jupyter notebook and .py file creation">
+      <created>1695823589895</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695823589895</updated>
+    </task>
+    <task id="LOCAL-00002" summary="upload requirements.txt; jupyter notebook and .py file creation for setup">
+      <created>1695823621201</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695823621201</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="upload requirements.txt; jupyter notebook and .py file creation" />
+    <MESSAGE value="upload requirements.txt; jupyter notebook and .py file creation for setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload requirements.txt; jupyter notebook and .py file creation for setup" />
   </component>
 </project>
