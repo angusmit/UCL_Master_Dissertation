@@ -3,3 +3,7 @@ pandas
 matplotlib
 scipy
 jupyter
+numba
+pprintpp
+statsmodels
+seaborn

@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f36f70-0d23-4068-91ec-e09971fa463e" name="Changes" comment="Create Geometric Brownian Motion, and plot function" />
+    <list default="true" id="83f36f70-0d23-4068-91ec-e09971fa463e" name="Changes" comment="added mean-reverting process,plot function, tbc">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +45,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\angus\github\UCL_Master_Dissertation\data" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="UCL Master Dissertation" />
@@ -75,7 +84,9 @@
       <option name="presentableId" value="Default" />
       <updated>1695822851850</updated>
       <workItem from="1695822853883" duration="306000" />
-      <workItem from="1695823234343" duration="15811000" />
+      <workItem from="1695823234343" duration="17161000" />
+      <workItem from="1695906674901" duration="7804000" />
+      <workItem from="1695991052556" duration="19810000" />
     </task>
     <task id="LOCAL-00001" summary="upload requirements.txt; jupyter notebook and .py file creation">
       <created>1695823589895</created>
@@ -98,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695826865863</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added mean-reverting process,plot function, tbc">
+      <created>1695852511225</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695852511225</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +126,7 @@
     <MESSAGE value="upload requirements.txt; jupyter notebook and .py file creation" />
     <MESSAGE value="upload requirements.txt; jupyter notebook and .py file creation for setup" />
     <MESSAGE value="Create Geometric Brownian Motion, and plot function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create Geometric Brownian Motion, and plot function" />
+    <MESSAGE value="added mean-reverting process,plot function, tbc" />
+    <option name="LAST_COMMIT_MESSAGE" value="added mean-reverting process,plot function, tbc" />
   </component>
 </project>
