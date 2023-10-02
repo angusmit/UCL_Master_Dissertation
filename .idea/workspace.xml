@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="83f36f70-0d23-4068-91ec-e09971fa463e" name="Changes" comment="added mean-reverting process,plot function, tbc">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +86,7 @@
       <workItem from="1695823234343" duration="17161000" />
       <workItem from="1695906674901" duration="7804000" />
       <workItem from="1695991052556" duration="19810000" />
+      <workItem from="1696249539493" duration="6878000" />
     </task>
     <task id="LOCAL-00001" summary="upload requirements.txt; jupyter notebook and .py file creation">
       <created>1695823589895</created>
@@ -121,6 +121,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="upload requirements.txt; jupyter notebook and .py file creation" />
